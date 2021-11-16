@@ -1,2 +1,4 @@
 # Custom-ErrorPages
-Custom Error Pages for you Webspace
+Here you can download Custom Webserver Error Pages. It has been tested so far only on Plesk configuration tools with the latest version. For other servers a different software might be expected. You can completely redesign the error pages for your application.
+
+Latest Update: <kbd>11.16.2021</kbd>
